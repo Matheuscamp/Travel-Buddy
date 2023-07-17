@@ -1,6 +1,6 @@
 # Order of Arrival
 
-<img src="https://github.com/Matheuscamp/Barbearia-Brothers-Lista-Chegada/blob/main/imgs/Print%20projeto%20Ordem%20Chegada%20barbearia.png" alt="Barber-list">
+<img href="https://github.com/Matheuscamp/Travel-Buddy/blob/main/images/Travel-Buddy%20preview.png?raw=true" alt="Travel-Buddy-preview">
 
 ## Introduction
 
