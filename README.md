@@ -1,6 +1,6 @@
 # Order of Arrival
 
-<img href="https://github.com/Matheuscamp/Travel-Buddy/blob/main/images/Travel-Buddy%20preview.png?raw=true" alt="Travel-Buddy-preview">
+<img src="./images/Travel-Buddy preview.png" alt="Travel-Buddy-preview">
 
 ## Introduction
 
