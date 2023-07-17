@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a website for registering customers on a first-come, first-served basis at a barbershop made with JavaScript, HTML and CSS.
+This is a landing page, for Travel Buddy company
 
 ## Live Link
 
