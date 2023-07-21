@@ -1,4 +1,4 @@
-# Order of Arrival
+# Landing Page Travel Buddy
 
 <img src="./images/Travel-Buddy preview.png" alt="Travel-Buddy-preview">
 
