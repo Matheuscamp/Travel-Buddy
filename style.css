@@ -63,15 +63,14 @@ button {
   font-style: normal;
   font-weight: bold;
   font-size: 42px;
-  line-height: 24px;
   color: white;
+  text-align: center;
 }
 .subtitle-introduction {
   width: 640px;
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
-  line-height: 24px;
   color: white;
   text-align: center;
 }
@@ -97,7 +96,6 @@ button {
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
-  line-height: 24px;
   width: 600px;
   text-align: left;
 }
@@ -134,7 +132,6 @@ button {
   font-style: normal;
   font-weight: 500;
   font-size: 18px;
-  line-height: 24px;
   width: 400px;
   text-align: center;
   margin-top: -30px;
